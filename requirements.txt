@@ -8,5 +8,5 @@ evidently
 dill
 matplotlib
 pymongo
-
+notebook
 -e .
